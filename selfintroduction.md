@@ -10,13 +10,13 @@
  - 政治面貌：共青团员
  - 家庭住址：甘肃省平凉市
 ## 照片：
- - [个人照片](https://upload.jianshu.io/users/upload_avatars/14351850/e3e19f54-57bf-4427-b12a-d7d1d563e20c?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240)
+ - ！[我的简书头像](https://upload.jianshu.io/users/upload_avatars/14351850/e3e19f54-57bf-4427-b12a-d7d1d563e20c?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240)
 ## 教育经历：
  - 小学：曾经共在三所学校就读过
  - 初中：在县级中学就读（全县教育质量最好的中学）
  - 高中：就读于静宁县第二中学（该学校曾于2014年搬至新校区，教学条件都很好，老师也很优秀）
  - 大学：就对于南京工业职业技术学院
- - 专业：软件技术
+ - 专业：软件技术（Java编程学习，HTML设计）
 ## 爱好：
  - 读书：各种美文，哲理性散文，名人传记等
  - 追剧：青春偶像剧
