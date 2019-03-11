@@ -1,5 +1,6 @@
 # 个人简历
-## 个人主页：【点击进入】https://www.jianshu.com/u/b2ca648b9c5a
+## 个人主页：
+ - [点击进入](https://www.jianshu.com/u/b2ca648b9c5a)
 ## 基本情况：
  - 姓名：王欢乐
  - 性别：女
@@ -8,7 +9,8 @@
  - 职业：在校大学生
  - 政治面貌：共青团员
  - 家庭住址：甘肃省平凉市
-## 照片：https://upload.jianshu.io/users/upload_avatars/14351850/e3e19f54-57bf-4427-b12a-d7d1d563e20c?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240
+## 照片：
+ - [个人照片](https://upload.jianshu.io/users/upload_avatars/14351850/e3e19f54-57bf-4427-b12a-d7d1d563e20c?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240)
 ## 教育经历：
  - 小学：曾经共在三所学校就读过
  - 初中：在县级中学就读（全县教育质量最好的中学）
